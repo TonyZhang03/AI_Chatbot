@@ -1,0 +1,13 @@
+aiogram==2.11.2
+aiohttp==3.7.4
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.0+cpu
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.9.0+cpu 
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torchaudio==0.8.0 
+sentencepiece
+transformers==4.4.2
+simpletransformers==0.61.4
+SpeechRecognition==3.8.1
+
